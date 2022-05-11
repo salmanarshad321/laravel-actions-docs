@@ -12,7 +12,7 @@ Instead of creating controllers, jobs, listeners and so on, it allows you to cre
 
 Therefore it encourages you to switch your focus from:
 
-> "What controllers do I need?", "should I make a FormRequest for this?", "should this run asynchronously in a job instead?", ect.
+> "What controllers do I need?", "should I make a FormRequest for this?", "should this run asynchronously in a job instead?", etc.
 
 to:
 
